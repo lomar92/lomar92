@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Terraform, Vault, Packer, AWS, Krypto**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/amar-lojo/](https://www.linkedin.com/in/amar-lojo/)
+- 📄 Know about my experiences [Check Linkedin](https://www.linkedin.com/in/amar-lojo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
