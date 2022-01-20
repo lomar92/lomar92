@@ -26,7 +26,7 @@
 | ------------- | ------------- |
 
 
-## <h4 align="left">You can buy me a Ko-fi here!:</h3>
+## You can buy me a Ko-fi here!
 <p><a href="https://www.buymeacoffee.com/lomar92"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lomar92" /></a></p><br><br>
 
 
