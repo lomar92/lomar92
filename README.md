@@ -26,21 +26,12 @@
 | <a href="https://github.com/lomar92/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lomar92&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="lomar92's github stats" /></a> | <a href="https://github.com/lomar92/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomar92&layout=compact&theme=blue-green&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
 
-<a href="https://github.com/lomar92/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lomar92&repo=github-readme-stats&theme=blue-green&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lomar92&repo=anuraghazra.github.io&theme=blue-green&hide_border=true" />
-</a>
-
-
-### You can buy me a Ko-fi here!
+***You can buy me a Ko-fi here!***
 <p><a href="https://www.buymeacoffee.com/lomar92"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lomar92" /></a></p><br><br>
 
 
-### 😂 Here is a random joke that'll make you laugh!
+***😂 Here is a random joke that'll make you laugh!***
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
