@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Amar Lojo</h1>
+<h3 align="center">A passionate Solutions Engineer from Germany working at HashiCorp</h3>
 
-<!--
-**lomar92/lomar92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lomar92&label=Profile%20views&color=0e75b6&style=flat" alt="lomar92" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lomar92" alt="lomar92" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **K3s Cluster Setup on Pis**
+
+- 🌱 I’m currently learning **Kubernetes, Vault**
+
+- 💬 Ask me about **Terraform, Vault, Packer, AWS, Krypto**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/amar-lojo/](https://www.linkedin.com/in/amar-lojo/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amar-lojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amar-lojo" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/lomar92"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lomar92" /></a></p><br><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lomar92&show_icons=true&locale=en" alt="lomar92" /></p>
