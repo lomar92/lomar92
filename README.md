@@ -22,17 +22,12 @@
 </p>
 
 
-| <a href=src="https://github-readme-stats.vercel.app/api?username=lomar92&show_icons=true&locale=en" alt="lomar92" /></p>
-/></a> |
-| ------------- | ------------- |
-
-
-| <a href="https://github.com/lomar92/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lomar92&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="lomar92's github stats" /></a> | <a href="https://github.com/lomar92/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomar92&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/lomar92/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lomar92&show_icons=true&include_all_commits=true&theme=blue-green" alt="lomar92's github stats" /></a> | <a href="https://github.com/lomar92/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomar92&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lomar92&theme=blue-green)
 
-<h4 align="left">You can buy me a Coffe here!:</h3>
+<h4 align="left">You can buy me a Ko-fi here!:</h3>
 <p><a href="https://www.buymeacoffee.com/lomar92"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lomar92" /></a></p><br><br>
 
 
