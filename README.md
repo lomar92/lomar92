@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Solutions Engineer from Germany working at HashiCorp</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomar92&label=Profile%20views&color=0e75b6&style=flat" alt="lomar92" /> </p>
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/lomar92?tab=repositories)
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/lomar92/hcp_packer_tfc_demo)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lomar92" alt="lomar92" /></a> </p>
 
