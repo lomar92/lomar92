@@ -23,6 +23,9 @@
 
 
 | <a href=src="https://github-readme-stats.vercel.app/api?username=lomar92&show_icons=true&locale=en" alt="lomar92" /></p>
+/></a> |
+| ------------- | ------------- |
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lomar92&theme=blue-green)
 
