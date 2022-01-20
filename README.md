@@ -8,11 +8,11 @@
 
 **About me**
 
-- 🔭 I’m currently working on **K3s Cluster Setup on Pis**
+- 🔭 I’m currently working on **K3s Cluster on Rasperry Pi**
 
-- 🌱 I’m currently learning **Kubernetes, Vault**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Terraform, Vault, Packer, AWS, Krypto**
+- 💬 Ask me about **Terraform, Vault, Packer, AWS, NAS, ONTAP**
 
 - 📄 Know about my experiences [Check Linkedin](https://www.linkedin.com/in/amar-lojo/)
 
@@ -22,7 +22,7 @@
 </p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lomar92&show_icons=true&locale=en" alt="lomar92" /></p>
+| <a href=src="https://github-readme-stats.vercel.app/api?username=lomar92&show_icons=true&locale=en" alt="lomar92" /></p>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lomar92&theme=blue-green)
 
