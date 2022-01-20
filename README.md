@@ -5,10 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lomar92" alt="lomar92" /></a> </p>
 
-<a href="https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python" />
-</a>
-Made with [contributors-img](https://contrib.rocks).
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 - 🔭 I’m currently working on **K3s Cluster Setup on Pis**
 
