@@ -5,6 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lomar92" alt="lomar92" /></a> </p>
 
+<a href="https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python" />
+</a>
+Made with [contributors-img](https://contrib.rocks).
+
 - 🔭 I’m currently working on **K3s Cluster Setup on Pis**
 
 - 🌱 I’m currently learning **Kubernetes, Vault**
