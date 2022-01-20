@@ -27,6 +27,9 @@
 | ------------- | ------------- |
 
 
+| <a href="https://github.com/lomar92/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lomar92&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="lomar92's github stats" /></a> | <a href="https://github.com/lomar92/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomar92&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lomar92&theme=blue-green)
 
 <h4 align="left">You can buy me a Coffe here!:</h3>
