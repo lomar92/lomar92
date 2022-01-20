@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomar92&label=Profile%20views&color=0e75b6&style=flat" alt="lomar92" /> </p>
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lomar92" alt="lomar92" /></a> </p>
 
+**About me**
 
 - 🔭 I’m currently working on **K3s Cluster Setup on Pis**
 
@@ -24,9 +24,9 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lomar92&show_icons=true&locale=en" alt="lomar92" /></p>
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lomar92&theme=blue-green)
 
 <h4 align="left">You can buy me a Coffe here!:</h3>
-
 <p><a href="https://www.buymeacoffee.com/lomar92"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lomar92" /></a></p><br><br>
 
 
