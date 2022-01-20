@@ -28,7 +28,7 @@
 
 #### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/lomar92/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lomar92&repo=github-readme-stats&theme=blue-green&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
