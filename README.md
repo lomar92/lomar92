@@ -27,11 +27,11 @@
 | ------------- | ------------- |
 
 
-***You can buy me a Ko-fi here!***
+**You can buy me a Ko-fi here!**
 <p><a href="https://www.buymeacoffee.com/lomar92"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lomar92" /></a></p><br><br>
 
 
-***😂 Here is a random joke that'll make you laugh!***
+** 😂 Here is a random joke that'll make you laugh!**
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
