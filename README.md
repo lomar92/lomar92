@@ -11,11 +11,6 @@
 
 - 💬 Ask me about **Terraform, Vault, Packer, AWS, NAS, ONTAP**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amar-lojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amar-lojo" height="30" width="40" /></a>
-</p>
-
 
 | <a href="https://github.com/lomar92/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lomar92&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="lomar92's github stats" /></a> | <a href="https://github.com/lomar92/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomar92&layout=compact&theme=blue-green&hide_border=true" /></a> |
 | ------------- | ------------- |
