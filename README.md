@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amar Lojo</h1>
-<h3 align="center">A passionate Solutions Engineer from Germany 🇩🇪 working at HashiCorp</h3>
+<h1 align="center">Hi 👋, I'm </h1>
+<h3 align="center">a passionate Solutions Engineer from Germany 🇩🇪 working at HashiCorp</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomar92&label=Profile%20views&color=0e75b6&style=flat" alt="lomar92" /> </p>
 
@@ -10,8 +10,6 @@
 **About me**
 
 - 💬 Ask me about **Terraform, Vault, Packer, AWS, NAS, ONTAP**
-
-- 📄 Know about my experiences [Check Linkedin](https://www.linkedin.com/in/amar-lojo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
