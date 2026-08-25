@@ -29,7 +29,7 @@
 > **Infrastructure Engineer** — building secure, automated systems at the intersection of **Zero Trust security**, **cloud architecture**, and **AI-powered tooling**.
 
 - 🔐 **Vault** — PKI/ACME pipelines · KMIP · Dynamic Secrets · Secrets Sync · Auth Methods
-- 🔒 **DevSecOps** — shift-left security in CI/CD · IaC scanning (Trivy · Checkov) · supply chain security (Cosign · SBOM) · policy-as-code (OPA/Conftest) · SAST & dependency auditing
+- 🔒 **DevSecOps** — shift-left security in CI/CD · IaC scanning · supply chain security · policy-as-code · SAST & dependency auditing
 - ☁️ **Cloud** — AWS & Azure · Terraform-first IaC · security guardrails as code
 - 🤖 **AI Automation** — Claude API agents · FastAPI microservices · agentic developer tooling
 - ☸️ **Platform** — Kubernetes · Docker · GitOps · GitHub Actions · GitLab CI
@@ -67,8 +67,6 @@
 
 ### DevSecOps & Shift-Left Security
 
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" alt="Trivy" />
-<img src="https://img.shields.io/badge/Checkov-5C4EE5?style=for-the-badge" alt="Checkov" />
 <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
 <img src="https://img.shields.io/badge/OPA%20%2F%20Conftest-7B2FFF?style=for-the-badge" alt="OPA Conftest" />
 <img src="https://img.shields.io/badge/GitHub%20Advanced%20Security-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Advanced Security" />
