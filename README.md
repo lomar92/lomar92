@@ -8,7 +8,10 @@
 
 <img src="https://img.shields.io/badge/Zero%20Trust%20Architect-00D4FF?style=flat-square" alt="Zero Trust Architect" />
 &nbsp;
-<img src="https://img.shields.io/badge/DevSecOps%20Engineer-00FF88?style=flat-square" alt="DevSecOps Engineer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/DevSecOps%20Engineer-00C875?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevSecOps%20Engineer-065F46?style=flat-square" alt="DevSecOps Engineer" />
+</picture>
 &nbsp;
 <img src="https://img.shields.io/badge/IaC%20Specialist-7B2FFF?style=flat-square" alt="IaC Specialist" />
 &nbsp;
