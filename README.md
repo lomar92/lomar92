@@ -97,12 +97,12 @@
 
 <div align="center">
 
-<a href="https://www.credly.com/org/hashicorp"><img src="https://img.shields.io/badge/HashiCorp%20Certified%3A%20Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate" /></a>
-<a href="https://www.credly.com/org/hashicorp"><img src="https://img.shields.io/badge/HashiCorp%20Certified%3A%20Vault%20Associate-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" alt="Vault Associate" /></a>
+<a href="https://www.credly.com/badges/bae05ef0-01b0-4fb0-aa79-9a9ed1564e4b"><img src="https://img.shields.io/badge/HashiCorp%20Certified%3A%20Terraform%20Associate%20(004)-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate 004" /></a>
+<a href="https://www.credly.com/badges/fe112ace-65f7-41c3-9866-1bf9e2111787"><img src="https://img.shields.io/badge/HashiCorp%20Certified%3A%20Vault%20Associate%20(003)-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" alt="Vault Associate 003" /></a>
 
-<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA" /></a>
-<a href="https://training.linuxfoundation.org/certification/certified-it-associate/"><img src="https://img.shields.io/badge/LFCA-003778?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="LFCA" /></a>
-<a href="https://training.linuxfoundation.org/certification/the-linux-foundation-certified-system-administrator-lfcs/"><img src="https://img.shields.io/badge/LFCS-003778?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="LFCS" /></a>
+<a href="https://www.credly.com/badges/76a6b18f-ba5f-4b4d-be5d-37c889fa2bfe"><img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA" /></a>
+<a href="https://www.credly.com/badges/b7625635-242b-427e-9efb-4fedc73cab18"><img src="https://img.shields.io/badge/LFCA-003778?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="LFCA" /></a>
+<a href="https://www.credly.com/badges/2f1469a2-69a1-4676-95aa-32563e3ae08d"><img src="https://img.shields.io/badge/LFCS-003778?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="LFCS" /></a>
 <a href="https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/"><img src="https://img.shields.io/badge/CKAD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKAD" /></a>
 
 </div>
