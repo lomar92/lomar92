@@ -134,7 +134,7 @@
 |---------|-------------|-------|
 | [**vault-acme-demo**](https://github.com/lomar92/vault-acme-demo) | Automated TLS certificate lifecycle with Vault ACME — http-01 challenge, background auto-renewal | Python · FastAPI · Terraform |
 | [**uigen-demo**](https://github.com/lomar92/uigen-demo) | AI-powered UI component generator — describe in chat, Claude generates JSX, live iframe preview | Next.js · TypeScript · Claude API |
-| [**vault_demos**](https://github.com/lomar92/vault_demos) | HashiCorp Vault architecture demos: PKI, KMIP, Dynamic Secrets, Auth Methods | HCL · Terraform · Shell |
+| [**compound-interest-btc-calculator-v2**](https://github.com/lomar92/compound-interest-btc-calculator-v2) | BTC compound interest & retirement planner — 4% withdrawal rule, long-term projection | JavaScript |
 | [**hcp_packer_tfc_demo**](https://github.com/lomar92/hcp_packer_tfc_demo) | HCP Packer + Terraform Cloud automated golden image pipeline | Packer · Terraform · GitHub Actions |
 | [**github-actions-packer**](https://github.com/lomar92/github-actions-packer) | CI/CD pipeline for automated Packer image builds via GitHub Actions | Packer · YAML · Shell |
 | [**saito-monitor**](https://github.com/lomar92/saito-monitor) | Real-time monitoring & observability dashboard for Saito network infrastructure | Python · FastAPI |
