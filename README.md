@@ -113,19 +113,16 @@
 
 <div align="center">
 
-> Pick a variant — tell me which one to keep.
+<table>
+  <tr>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=lomar92&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lomar92&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&count_private=true" alt="Top Languages" height="165" /></td>
+  </tr>
+</table>
 
-**A — Synthwave** &nbsp;|&nbsp; **B — Radical**
+<br/>
 
-<img src="https://github-stats-extended.vercel.app/api?username=lomar92&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" alt="A Synthwave" height="160" />
-&nbsp;
-<img src="https://github-stats-extended.vercel.app/api?username=lomar92&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="B Radical" height="160" />
-
-**C — Tokyo Night** &nbsp;|&nbsp; **D — Midnight Purple**
-
-<img src="https://github-stats-extended.vercel.app/api?username=lomar92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="C Tokyo Night" height="160" />
-&nbsp;
-<img src="https://github-stats-extended.vercel.app/api?username=lomar92&show_icons=true&theme=midnight_purple&hide_border=true&count_private=true&include_all_commits=true" alt="D Midnight Purple" height="160" />
+<img src="https://streak-stats.demolab.com/?user=lomar92&hide_border=true&background=00000000&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=38bdae&dates=717c9c&stroke=00000000" alt="GitHub Streak" />
 
 </div>
 
