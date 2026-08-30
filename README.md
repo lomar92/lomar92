@@ -135,7 +135,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**ytsum**](https://github.com/lomar92/ytsum) ![New](https://img.shields.io/badge/-NEW-00D4FF?style=flat-square) | YouTube Transcribe & Summarize CLI — scores videos against a personal interest profile and decides in &lt;60s: watch, skip, or summary enough? Obsidian vault integration included. | Python · Gemini · Whisper |
+| [**ytsum**](https://github.com/lomar92/ytsum) <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NEW-00D4FF?style=flat-square" /><img src="https://img.shields.io/badge/-NEW-7B2FFF?style=flat-square" alt="New" /></picture> | YouTube Transcribe & Summarize CLI — scores videos against a personal interest profile and decides in &lt;60s: watch, skip, or summary enough? Obsidian vault integration included. | Python · Gemini · Whisper |
 | [**vault-acme-demo**](https://github.com/lomar92/vault-acme-demo) | Automated TLS certificate lifecycle with Vault ACME — http-01 challenge, background auto-renewal | Python · FastAPI · Terraform |
 | [**uigen-demo**](https://github.com/lomar92/uigen-demo) | AI-powered UI component generator — describe in chat, Claude generates JSX, live iframe preview | Next.js · TypeScript · Claude API |
 | [**compound-interest-btc-calculator-v2**](https://github.com/lomar92/compound-interest-btc-calculator-v2) | BTC compound interest & retirement planner — 4% withdrawal rule, long-term projection | JavaScript |
